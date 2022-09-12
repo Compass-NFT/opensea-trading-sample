@@ -1,1 +1,1 @@
-# opensea-trading-sample
+## Opensea Trading sample repo
