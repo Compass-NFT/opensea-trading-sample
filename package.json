@@ -1,0 +1,12 @@
+{
+  "name": "opensea-trading-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Compass-NFT/opensea-trading-sample.git",
+  "author": "Peter Szoke <ps@jpegs.ro>",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "opensea-js": "4.0.7"
+  }
+}
